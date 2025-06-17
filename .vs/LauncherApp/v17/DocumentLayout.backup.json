@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\launcherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\launcherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|c:\\users\\danhi\\source\\repos\\launcherapp\\launcherapp\\model\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4081E2F-EC78-4C78-BA13-2DB4EA0DB400}|LauncherApp\\LauncherApp.csproj|solutionrelative:launcherapp\\model\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LauncherApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "LauncherApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:52:50.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppInfo.cs",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\Model\\AppInfo.cs",
+              "RelativeDocumentMoniker": "LauncherApp\\Model\\AppInfo.cs",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\Model\\AppInfo.cs",
+              "RelativeToolTip": "LauncherApp\\Model\\AppInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:49:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LauncherApp.csproj",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\LauncherApp.csproj",
+              "RelativeDocumentMoniker": "LauncherApp\\LauncherApp.csproj",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\LauncherApp.csproj",
+              "RelativeToolTip": "LauncherApp\\LauncherApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T07:49:44.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LauncherApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\MainWindow.xaml",
+              "RelativeToolTip": "LauncherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T07:49:00.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LauncherApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LauncherApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAEwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:48:57.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LauncherApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\App.xaml.cs",
+              "RelativeToolTip": "LauncherApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:44:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\App.xaml",
+              "RelativeDocumentMoniker": "LauncherApp\\App.xaml",
+              "ToolTip": "C:\\Users\\danhi\\source\\repos\\LauncherApp\\LauncherApp\\App.xaml",
+              "RelativeToolTip": "LauncherApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T10:44:03.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

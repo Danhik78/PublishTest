@@ -1,0 +1,2 @@
+C:\Users\danhi\source\repos\LauncherApp\LauncherApp\bin\Release\net8.0-windows\win-x64\publish\LauncherApp.pdb
+C:\Users\danhi\source\repos\LauncherApp\LauncherApp\bin\Release\net8.0-windows\win-x64\publish\LauncherApp.exe

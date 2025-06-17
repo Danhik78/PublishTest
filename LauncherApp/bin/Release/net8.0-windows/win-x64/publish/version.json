@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "apps": {
+    "WinMasterApp": {
+      "version": "0.0.1",
+      "url": "https://github.com/Danhik78/PublishTest/releases/download/v1.0.0/WinMasterApp.zip"
+    }
+  }
+}
